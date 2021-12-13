@@ -104,33 +104,33 @@ en:
           other: Lekce
         last_viewed: "Last viewed:"
       change_role:
-        one_admin: "You need at least one administrator."
-        admin_limit: "You've reached your limit of admins. Consider upgrading your plan at Admin > Billing."
-        not_valid: "This is not a valid role."
+        one_admin: "Potřebujete alespoň jednoho správce."
+        admin_limit: "Dosáhli jste limitu počtu správců. Zvažte upgrade svého plánu na stránce Správce > Fakturace."
+        not_valid: "Toto není platná role."
       helper:
-        active: "Active"
-        invitated: "Invitation Pending"
+        active: "Aktivní"
+        invitated: "Pozvánka čeká na vyřízení"
     items:
-      completed: Completed
+      completed: Dokončeno
       destroy:
-        destroyed: "Lesson was successfully deleted."
+        destroyed: "Lekce byla úspěšně smazána."
     groups:
       index:
-        members: Members
-        member: Member
-        new: New group
-        edit: Edit group
-        modal_form_name: Name
-        modal_form_users_label: Add users
-        modal_form_users_placeholder: Select users
-        modal_title: Create a new group
+        members: Členové
+        member: Člen
+        new: Nová skupina
+        edit: Upravit skupinu
+        modal_form_name: Jméno
+        modal_form_users_label: Přidat uživatele
+        modal_form_users_placeholder: Vyberte uživatele
+        modal_title: Vytvořte novou skupinu
       show:
         action:
-          remove: Remove from group
-        col_name: Name
-        modal_form_name_placeholder: Name
-        modal_form_users_label: Add users
-        modal_form_users_placeholder: Select users
+          remove: Odebrat ze skupiny
+        col_name: Jmono
+        modal_form_name_placeholder: Název
+        modal_form_users_label: Přidat uživatele
+        modal_form_users_placeholder: Vyberte uživatele
         modal_title: Update group
       create:
         created: "Group was successfully created."
