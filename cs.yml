@@ -2,106 +2,106 @@
 en:
   activerecord:
     models:
-      answer: Answer
-      certificate: Certificate
-      certificate_template: Certificate Template
-      feature: Feature
-      goal: Goal
-      group: Group
-      integration: Integration
-      item: Lesson
-      option: Option
-      path: Course
-      payment: Payment
-      plan: Plan
-      question: Question
+      answer: Odpověď
+      certificate: Certifikát
+      certificate_template: Šablona certifikátu
+      feature: Funkce
+      goal: Cíl
+      group: Skupina
+      integration: Integrace
+      item: Lekce
+      option: Možnosti
+      path: Kurz
+      payment: Platba
+      plan: Plán
+      question: Otázka
       skill: Tag
-      tenant: Academy
-      theme: Theme
-      user: User
+      tenant: Akademie
+      theme: Téma
+      user: Uživatel
     attributes:
       certificate:
-        date_issued: Date issued
-        status: Status
+        date_issued: Datum vydání
+        status: Stav
       certificate_template:
-        course_description: Course description
-        brand_logo: Brand logo
-        signature: Signature
-        printed_name: "Printed name"
-        printed_position: "Printed position"
-        minimum_level: "Minimum level to issue"
-        automatically_issued: "Automatically issued"
+        course_description: Popis kurzu
+        brand_logo: Logo značky
+        signature: Podpis
+        printed_name: "Tištěný název"
+        printed_position: "Pozice tisku"
+        minimum_level: "Minimální úroveň pro publikování"
+        automatically_issued: "Automaticky vydáno"
       groups:
-        name: Name
+        name: Jméno
       items:
-        attachment: Attachment
+        attachment: Příloha
       path:
-        banner: Cover image
-        background_image: Background image
-        free: Free
-        subscription: Subscription
-        one-time: One-time
+        banner: Titulní obrázek
+        background_image: Obrázek na pozadí
+        free: Zdarma
+        subscription: Předplatné
+        one-time: Jednorázová platba
       tenants:
-        subdomain: Subdomain
-        password: Password
+        subdomain: Subdoména
+        password: Heslo
       themes:
-        brand_logo: Brand logo
-        background_image: Background image
-        course_background: Course background
+        brand_logo: Logo značky
+        background_image: Obrázek na pozadí
+        course_background: Pozadí kurzu
       user:
         avatar: Avatar
   admin:
     welcome:
       index:
-        total_views: Total Views
-        lesson_title: Lesson title
-        in_minutes: "(in minutes)"
+        total_views: Celkový počet zobrazení
+        lesson_title: Název lekce
+        in_minutes: "(v minutách)"
     paths:
       certificates_tab:
-        completed: Completed Lessons
-        status: Certificates Status
-        issued: Issued
-        pending: Pending
-        automatic: Automatically
-        canceled: Canceled
-        pdf: View as PDF
-        cancel: Cancel
-        issue: Issue
-        no_certificate: There is no certificate template created yet.
-        create_template: Create a template
+        completed: Dokončené lekce
+        status: Stav certifikátů
+        issued: Vydáno
+        pending: Čeká na vyřízení
+        automatic: Automaticky
+        canceled: Zrušeno
+        pdf: Zobrazit jako PDF
+        cancel: Zrušit
+        issue: Vydání
+        no_certificate: Zatím není vytvořena žádná šablona certifikátu.
+        create_template: Vytvořte šablonu
       users_tab:
-        completed: Completed Lessons
-        details: Details
+        completed: Dokončené lekce
+        details: Podrobnosti
       edit_payment:
-        billing_mode: Billing mode
-        edit_payment: Edit payment
-        currency_hint: "You are using %{name} (%{code}) as your default currency."
-        change_currency: "Change currency"
+        billing_mode: Režim fakturace
+        edit_payment: Upravit platbu
+        currency_hint: "Používáte %{name} (%{code}) Jako svou výchozí měnu."
+        change_currency: "Změnit měnu"
       update:
-        updated: "Course was successfully updated."
-        error: "Sorry, something went wrong when updating."
+        updated: "Kurz byl úspěšně aktualizován."
+        error: "Promiňte, při aktualizaci se něco pokazilo."
       destroy:
-        destroyed: "Course was successfully destroyed."
+        destroyed: "Kurz byl úspěšně smazán."
       sales:
-        active_subscriber: "active subscriber"
-        active_subscribers: "active subscribers"
+        active_subscriber: "aktivní odběratel"
+        active_subscribers: "aktivní odběratelé"
     users:
       index:
-        banner_button: Change access policy
-        banner_title: Want to allow users to sign up by themselves?
+        banner_button: Změna zásad přístupu
+        banner_title: Chcete uživatelům umožnit, aby se sami registrovali?
         invite:
-          button: Invite User
-          email: Email address
-          name: Name
-          title: Invite new users
+          button: Pozvat uživatele
+          email: E-mailová adresa
+          name: Jméno
+          title: Pozvěte nové uživatele
         sharelink:
-          button: Copy
-          title: Or share this link
-        expenditures: Expenditures
+          button: Kopírovat
+          title: Nebo sdílejte tento odkaz
+        expenditures: Výdaje
         lesson:
-          zero: Lesson
-          one: Lesson
-          other: Lessons
+          zero: Lekce
+          one: Lekce
+          other: Lekce
         last_viewed: "Last viewed:"
       change_role:
         one_admin: "You need at least one administrator."
