@@ -131,174 +131,174 @@ en:
         modal_form_name_placeholder: Název
         modal_form_users_label: Přidat uživatele
         modal_form_users_placeholder: Vyberte uživatele
-        modal_title: Update group
+        modal_title: Aktualizovat skupinu
       create:
-        created: "Group was successfully created."
+        created: "Skupina byla úspěšně vytvořena."
       update:
-        updated: "Group was successfully updated."
+        updated: "Skupina byla úspěšně aktualizována."
       destroy:
-        destroyed: "Group was successfully deleted."
+        destroyed: "Skupina byla úspěšně smazána."
     certificate_templates:
       index:
-        issue_config: Issue Configuration
-        issued: Issued
-        manual: Manual
-        automatic: Automatic
-        template: Template
-        not_created: Not created yet
-        edit: Edit template
-        create: Create template
+        issue_config: Konfigurace vydání
+        issued: Vydáno
+        manual: Manuál
+        automatic: Automaticky
+        template: Šablona
+        not_created: Zatím nevytvořeno
+        edit: Upravit šablonu
+        create: Vytvořit šablonu
       update:
-        updated: "The certificate template was successfully updated."
+        updated: "Šablona certifikátu byla úspěšně aktualizována."
       edit:
-        subtitle_html: "Edit certificates for the course <strong>%{course}</strong>."
-        change_logo: "Change logo"
-        upload_logo: "Upload logo"
-        file_recommendations: "We recommend using a PNG file with transparency. Maximum size: 1200 x 600px."
-        change_signature: "Change signature"
-        upload_signature: "Upload signature"
-        automatic_hint: "If you set this as automatic, certificates will be issued after the learner reaches a minimum level to issue, which you can setup below."
+        subtitle_html: "Upravit certifikáty pro kurz <strong>%{course}</strong>."
+        change_logo: "Změnit logo"
+        upload_logo: "Nahrát logo"
+        file_recommendations: "Doporučujeme použít soubor PNG s průhledností. Maximální velikost: 1200 x 600px."
+        change_signature: "Změnit podpis"
+        upload_signature: "Nahrát podpis"
+        automatic_hint: "Pokud toto nastavíte jako automatické, certifikáty budou vydány poté, co student dosáhne minimální úrovně pro vydání, kterou můžete nastavit níže."
     layouts:
       application:
         workspace: Back to Academy
-        marble_academy: "💎 Marble Academy"
-        help_center: "📚 Help Center"
-        facebook: "👍 Facebook Group"
-        feature_request: "👾 Feature request"
-        contact_support: "💬 Contact support"
+        marble_academy: "💎 Marble Akademie"
+        help_center: "📚 Centrum nápovědy"
+        facebook: "👍 Facebooková skupina"
+        feature_request: "👾 Žádost o funkci"
+        contact_support: "💬 Kontaktujte podporu"
     questions:
       show:
         col:
-          attempts: Attempts
-          correct: Correct
-          name: Name
-        completed: Completed
-        title: Title
+          attempts: Pokusů
+          correct: Správně
+          name: Jméno
+        completed: Dokončeno
+        title: Název
       destroy:
-        destroyed: "Question was successfully deleted."
+        destroyed: "Otázka byla úspěšně smazána."
     plans:
       index:
-        manage: Manage your Plan
-        lifetime: Lifetime access to
+        manage: Spravujte svůj plán
+        lifetime: Doživotní přístup k
         includes: Plan includes
-        current: Current Plan
-        unlimited: Unlimited
-        unlimited_learners: Unlimited learners
-        unlimited_creators: Unlimited creators
-        unlimited_drafts: Unlimited draft courses
-        analytics: Advanced analytics
-        features: View all features
-        upgrade: Upgrade plan
-        quote: Get a quote
-        features_included: Features included in all plans
-        alert_premium: Your plan provides two academies. If you want to create a second one, please get in touch with us through <a href="mailto:support@marbleteams.com">support@marbleteams.com</a>.
-        topic1: Private/public academy
-        topic2: "Micro-learning: bite-sized course creator"
-        topic3: Public, restricted and hidden courses
-        topic4: Quizzes
-        topic5: Custom domain
-        topic6: Email invites/link invites
-        topic7: Embed widgets
-        topic8: Custom branding
-        topic9: Certificates
-        topic10: Groups
-        topic11: Multiple languages
-        topic12: All lessons in one place/lesson view
-        topic13: User profiles
-        topic14: Clone lessons
-        topic15: Course collaborators
-        manage_subscription: "Manage Subscription"
-        unlimited_academies: "Unlimited academies"
-        unlimited_active_courses: "Unlimited active courses"
-        active_courses: "active courses"
-        custom_plan_offer: "Didn't find the ideal plan? Contact us so that we can customize it for you."
-        expires_at: "Expires at %{date}"
-      payment_confirmed: "The payment was confirmed and you new plan is already available. That means you can start using all the features right away."
-      hope_you_enjoy: "We hope you enjoy your experience and that you can use Marble to leverage your business and engage your customers. Feel free to contact us for support, when you need."
-      lets_start: "Let's start!"
-      error_restart: "You can restart the process to subscribe to the plan."
-      error_customer_portal: "Sorry, we had a problem connecting your Stripe account. Please, contact our support"
+        current: Plán zahrnuje
+        unlimited: Neomezený
+        unlimited_learners: Neomezený počet studentů
+        unlimited_creators: Neomezený počet tvůrců
+        unlimited_drafts: Neomezený počet návrhů kurzu
+        analytics: Pokročilá analytika
+        features: Zobrazit všechny funkce
+        upgrade: Plán upgradu
+        quote: Získejte cenovou nabídku
+        features_included: Funkce zahrnuté ve všech plánech
+        alert_premium: Váš plán poskytuje dvě akademie. Pokud chcete vytvořit druhý, kontaktujte nás prosím na adrese <a href="mailto:support@marbleteams.com">support@marbleteams.com</a>.
+        topic1: Soukromá/veřejná akademie
+        topic2: "Mikrovzdělávání: tvůrce mikro kurzů"
+        topic3: Veřejné, omezené a skryté kurzy
+        topic4: Kvízy
+        topic5: Vlastní doména
+        topic6: E-mailové pozvánky/pozvánky s odkazem
+        topic7: Vkládání widgetů
+        topic8: Vlastní branding
+        topic9: Certifikáty
+        topic10: skupiny
+        topic11: Více jazyků
+        topic12: Všechny lekce na jednom místě/zobrazení lekce
+        topic13: Uživatelské profily
+        topic14: Klonování lekce
+        topic15: Spolupracovníci kurzu
+        manage_subscription: "Spravovat předplatné"
+        unlimited_academies: "Neomezené akademie"
+        unlimited_active_courses: "Neomezené aktivní kurzy"
+        active_courses: "aktivní kurzy"
+        custom_plan_offer: "Nenašli jste ideální plán? Kontaktujte nás, abychom vám ho mohli přizpůsobit."
+        expires_at: "Vyprší %{date}"
+      payment_confirmed: "Platba byla potvrzena a váš nový plán je již k dispozici. To znamená, že můžete okamžitě začít používat všechny funkce."
+      hope_you_enjoy: "Doufáme, že si užijete používání Marble a že Marble můžete využít ke svému podnikání a zapojení svých zákazníků. Neváhejte nás kontaktovat pro podporu, když budete potřebovat."
+      lets_start: "Začněme!"
+      error_restart: "Pro přihlášení k odběru plánu můžete restartovat proces."
+      error_customer_portal: "Omlouváme se, měli jsme problém s připojením vašeho účtu Stripe. Kontaktujte prosím naši podporu."
     tenants:
       edit:
-        name: Academy name
-        name_placeholder: Enter your team or company name
-        welcome_subtitle: Secondary welcome message
-        welcome_title: Primary welcome message
+        name: Název akademie
+        name_placeholder: Zadejte název týmu nebo společnosti
+        welcome_subtitle: Sekundární uvítací zpráva
+        welcome_title: Primární uvítací zpráva
         whitelabel: White Label
-        whitelabel_checkbox: Remove 'Powered by Marble' signatures
+        whitelabel_checkbox: Odstraňte popis 'Powered by Marble'
         design_title: Design
-        design_subtitle: Update your brand logo, background images and the colors used in your academy.
-        brand_instructions: "Max size: 2000 x 700 px"
-        brand_logo: Brand logo
-        favicon_logo: Favicon logo
-        save_logo: Save logo
-        save_favicon_logo: Save Favicon logo
-        go_to_themes: Go to theme settings
+        design_subtitle: Aktualizujte logo své značky, obrázky na pozadí a barvy používané ve vaší akademii.
+        brand_instructions: "Max velikost: 2000 x 700 px"
+        brand_logo: Logo značky
+        favicon_logo: Logo favicon
+        save_logo: Uložit logo
+        save_favicon_logo: Uložit logo favicon
+        go_to_themes: Přejít na nastavení motivu
       domain:
         form:
           placeholder: example.yourdomain.tld
-          submit: Save custom domain
-          subtext: 'Please enter your custom (sub)domain by following the custom domain structure mysubdomain.mydomain.myTLD. Example: academy.icandoanything.com. Your domain will automatically be secured by SSL. It may take up to 24 hours for the DNS changes to be reflected.'
-        subtitle: Set a custom domain for your academy
+          submit: Uložit vlastní doménu
+          subtext: 'Zadejte svou vlastní (sub)doménu podle vlastní struktury domény mysubdomain.mydomain.myTLD. Příklad: academy.icandoanything.com. Vaše doména bude automaticky zabezpečena pomocí SSL. Může trvat až 24 hodin, než se změny DNS projeví.'
+        subtitle: Nastavte vlastní doménu pro svou akademii
         text_html:
-          "Your academy will be available on %{url} and the <span class='font-weight-bold'>custom
-          domain</span> you choose here:"
-        dns_checks_info: "These are automatically generated CNAME records for setting up your custom domain. Copy and paste them to your Domain's DNS records:"
-        title: Custom Domain
-        learn_more_html: <a href='https://academy.marble.so'>Learn more how to enable a custom domain</a>
-        dns_set_correctly: DNS Settings - CNAMEs were set correctly.
-        dns_not_set_correctly: DNS Settings - CNAMEs not set correctly.
-        custom_domain_published: Published  - The new domain is accessible.
-        custom_domain_not_published: Not published  - The new domain is not accessible.
+          "Vaše akademie bude k dispozici na %{url} a <span class='font-weight-bold'>vlastní
+          doménu</span> zvolíte zde:"
+        dns_checks_info: "Toto jsou automaticky generované záznamy CNAME pro nastavení vaší vlastní domény. Zkopírujte je a vložte do záznamů DNS vaší domény:"
+        title: Vlastní doména
+        learn_more_html: <a href='https://academy.marble.so'>Další informace o aktivaci vlastní domény</a>
+        dns_set_correctly: Nastavení DNS – CNAME byly nastaveny správně.
+        dns_not_set_correctly: Nastavení DNS – CNAME nejsou správně nastaveny.
+        custom_domain_published: Publikováno – Nová doména je přístupná.
+        custom_domain_not_published: Nepublikováno – Nová doména není přístupná.
       sso:
-        sso_login_url: "SSO Login URL"
-        sso_logout_url: "SSO Logout URL"
-        activate_sso: "Activate SSO"
+        sso_login_url: "URL pro přihlášení SSO"
+        sso_logout_url: "URL pro odhlášení jednotného přihlášení"
+        activate_sso: "Aktivovat jednotné přihlašování SSO"
         sso_secret: "SSO Secret"
-        generate: "Generate key"
-        regenerate: "Regenerate key"
+        generate: "Vygenerovat klíč"
+        regenerate: "Obnovit klíč"
       language:
-        submit: Save language
-        label: Language
-        subtitle: Change the language for the entire academy.
+        submit: Uložit jazyk
+        label: Jazyk
+        subtitle: Změna jazyka pro celou akademii.
       currency:
-        instructions: Change the default currency for all your courses. #translate
+        instructions: Změňte výchozí měnu pro všechny vaše kurzy. #translate
       access_policy:
-        action: Change access
+        action: Změnit přístup
         modal:
           form:
             open:
-              label1: Open
-              label2: Anyone with the link can register to the academy.
+              label1: Otevřený
+              label2: Kdokoli s odkazem se může zaregistrovat do akademie.
             private:
-              label1: Private
-              label2: Only people invited to the academy have access to it.
+              label1: Sokromý
+              label2: Přístup k akademii mají pouze lidé pozvaní.
             public:
-              label1: Public
-              label2: Anyone with the link can view this academy and its lessons.
-          title: Change access policy
-        subtitle: Change access policy
-        text: You can change the <strong>access policy</strong> for this academy, which is currently <strong>%{value}</strong>.
-        title: Danger Zone
+              label1: Veřejný
+              label2: Kdokoli s odkazem může zobrazit tuto akademii a její lekce.
+          title: Změna zásad přístupu
+        subtitle: Změna zásad přístupu
+        text: Můžete změnit <strong>zásady přístupu</strong> pro tuto akademii, které jsou aktuálně <strong>%{value}</strong>.
+        title: Nebezpečná zóna
         notification:
-          open: open
-          private: private
-          public: public
-          subtitle: Get notifications in Slack
+          open: otevřít
+          private: soukromý
+          public: veřejný
+          subtitle: Získejte upozornění ve slacku
           text:
-            When a course is published or an lesson added, MarbleBot will notify
-            you via Slack.
-          title: Notifications
+             Když je kurz zveřejněn nebo přidána lekce, MarbleBot vás upozorní
+             přes Slack.
+          title: Oznámení
       settings_navigation:
-        brand: "Brand"
-        domain: "Domain"
-        language: "Language"
-        access_policy: "Access Policy"
+        brand: "Značka"
+        domain: "Doména"
+        language: "Jazyk"
+        access_policy: "Zásady přístupu"
       update:
-        updated: "The academy was successfully updated."
-        new_currency: "You've set a new default currency. Now, you can go to the Sales page to set prices and billing options for each course."
+        updated: "Akademie byla úspěšně aktualizována."
+        new_currency: "Nastavili jste novou výchozí měnu. Nyní můžete přejít na stránku Prodej a nastavit ceny a možnosti fakturace pro každý kurz."
       change_favicon:
-        updated: "Favicon successfully updated."
+        updated: "Favicon byl úspěšně aktualizován."
         not_updated: "Favicon cannot be updated."
       remove_favicon:
         deleted: "Favicon deleted successfully."
