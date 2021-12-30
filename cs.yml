@@ -299,105 +299,105 @@ en:
         new_currency: "Nastavili jste novou výchozí měnu. Nyní můžete přejít na stránku Prodej a nastavit ceny a možnosti fakturace pro každý kurz."
       change_favicon:
         updated: "Favicon byl úspěšně aktualizován."
-        not_updated: "Favicon cannot be updated."
+        not_updated: "Favicon nebyl aktualizován."
       remove_favicon:
-        deleted: "Favicon deleted successfully."
+        deleted: "Favicon úspěšně smazán."
     themes:
-      background_image: Background image
-      bg_instructions: "Max size: 3000 x 1000 px"
-      brand_instructions: "Max size: 500 x 175 px"
-      brand_logo: Brand logo
-      button_color: Buttons color
-      button_text_color: Buttons text color
-      colors: Colors
-      colors_subtitle: Please, choose the main colors of your academy.
-      course_background: Course background
-      course_background_image: Course background image
-      course_body_text_color: Course body text color
-      course_design: Course design
-      course_design_subtitle: Course design subtitle
+      background_image: Obrázek na pozadí
+      bg_instructions: "Maximální velikost: 3000 x 1000 px"
+      brand_instructions: "Maximální velikost: 500 x 175 px"
+      brand_logo: Logo značky
+      button_color: Barva tlačítek
+      button_text_color: Barva textu tlačítek
+      colors: Barvy
+      colors_subtitle: Vyberte prosím hlavní barvy vaší akademie.
+      course_background: Pozadí kurzu
+      course_background_image: Obrázek na pozadí kurzu
+      course_body_text_color: Barva textu těla kurzu
+      course_design: Design kurzu
+      course_design_subtitle: Podnapis designu kurzu
       delete_image:
-        not_deleted: "Sorry, we couldn't delete this image."
-      go_to: Go to theme settings
-      images: Images
-      images_subtitle: Customize the images shown in your academy.
-      name: Theme name
-      navbar_color: Main navigation bar color
-      navbar_text_color: Main navigation bar text color
-      save: Save new theme
-      title: Theme settings
-      title_color: Title color on homepage
+        not_deleted: "Je nám líto, tento obrázek jsme nemohli smazat."
+      go_to: Přejít na nastavení motivu
+      images: Obrázky
+      images_subtitle: Přizpůsobte si obrázky zobrazené ve vaší akademii.
+      name: Název motivu
+      navbar_color: Barva hlavní navigační lišty
+      navbar_text_color: Barva textu hlavní navigační lišty
+      save: Uložení nového motivu
+      title: Nastavení motivu
+      title_color: Barva nadpisu na domovské stránce
       create:
-        updated: "Theme was successfully updated."
+        updated: "Motiv byl úspěšně aktualizován."
       destroy:
-        destroyed: "Theme was successfully destroyed."
+        destroyed: "Motiv byl úspěšně smazán."
     certificates:
       create:
-        created: "The certificate was created."
-        error: "There was error when creating the certificate."
+        created: "Certifikát byl vytvořen"
+        error: "Při vytváření certifikátu došlo k chybě."
       view_pdf:
-        title: "Certificate of Completion"
-        was_awarded: "was awarded at %{date} to"
-        for_completing: "for completing the course"
+        title: "Osvědčení o absolvování kurzu"
+        was_awarded: "bylo uděleno %{date} uživateli"
+        for_completing: "za dokončení kurzu"
     tags:
       destroy:
-        destroyed: "Tag was successfully deleted."
+        destroyed: "Tag byl úspěšně smazán."
     integrations:
       index:
-        stripe_description: "Integrate your Stripe account to your academy and start selling your courses to new learners."
-        mailchimp_description: "Automatically create a new Mailchimp contact whenever someone registers to your academy."
-        intercom_description: "Automatically create a new Intercom contact whenever someone registers to your academy."
-        hubspot_description: "Automatically create a new Hubspot contact whenever someone registers to your academy."
+        stripe_description: "Integrujte svůj účet Stripe do své akademie a začněte prodávat své kurzy novým studentům."
+        mailchimp_description: "Automaticky vytvořit nový kontakt Mailchimp, kdykoli se někdo zaregistruje do vaší akademie."
+        intercom_description: "Automaticky vytvořit nový kontakt Intercomu, kdykoli se někdo zaregistruje do vaší akademie."
+        hubspot_description: "Automaticky vytvořit nový Hubspot kontakt, kdykoli se někdo zaregistruje do vaší akademie."
   errors:
     messages:
       not_saved:
-        one: "1 error prohibited this %{resource} from being saved:"
-        other: "%{count} errors prohibited this %{resource} from being saved:"
+        one: "1 chyba zakázala uložení tohoto %{resource}:"
+        other: "%{count} chyb zakázalo uložení tohoto %{resource}:"
   payments:
     show:
-      purchase_confirmation: Purchase confirmation
+      purchase_confirmation: Potvrzení nákupu
       confirmation:
-        title: Your new journey starts now!
-        payment_confirmed_html: The payment was confirmed and your new course is already available. That means you can <a href='%{link}'>start learning right away</a>.
-        learning_metrics_html: You can also <a href='%{link}'>keep up with your learning metrics</a> on your profile page.
-        lets_start: "Let's start!"
+        title: Vaše nová cesta začíná právě teď!
+        payment_confirmed_html: Platba byla potvrzena a váš nový kurz je již k dispozici. To znamená, že se můžete <a href='%{link}'>hned začít učit</a>.
+        learning_metrics_html: Můžete také <a href='%{link}'>udržovat krok s metrikami učení</a> na stránce svého profilu.
+        lets_start: "Tak začněme!"
       error:
-        title: Oops!
-        something_wrong: There was something wrong with your payment. Please, check if the information provided is correct.
-        restart: You can restart the process again in order to access the course.
-        go_to_payment: Go to payment
+        title: Jejda!
+        something_wrong: S vaší platbou je něco špatně. Zkontrolujte prosím, zda jsou poskytnuté informace správné.
+        restart: Proces můžete znovu restartovat, abyste získali přístup ke kurzu.
+        go_to_payment: Přejít na platbu
     cancel_subscription:
-      canceled: "Your subscription was canceled."
-      error: "Something went wrong and we couldn't cancel your subscription."
-    purchase_confirmation: "Purchase confirmation"
+      canceled: "Vaše předplatné bylo zrušeno."
+      error: "Něco se pokazilo a nemohli jsme zrušit vaše předplatné."
+    purchase_confirmation: "Potvrzení nákupu"
     create:
-      unable_to_proceed: "Unable to proceed. The academy is disconnected from the payment system. Please, contact support."
+      unable_to_proceed: "Nelze pokračovat. Akademie je odpojena od platebního systému. Kontaktujte prosím podporu."
   items:
-    update: Update Lesson
-    edit: Edit Lesson
-    delete: Delete Lesson
-    add: Add Lesson
+    update: Aktualizace lekce
+    edit: Upravit lekci
+    delete: Smazat lekci
+    add: Přidat lekci
     create:
-      created: "Lesson was successfully created."
-    save: Save Lesson
-    add_question: Add Question
-    choose_file: Choose a file
-    item_code: Code
+      created: "Lekce byla úspěšně vytvořena."
+    save: Uložit lekci
+    add_question: Přidat otázku
+    choose_file: Vyberte soubor
+    item_code: Kód
     file_size: "(max. 10MB)"
-    enter_tag: Enter a Tag
-    uploaded: Currently Uploaded
-    nolink_text: Don't have a link? Upload a file
+    enter_tag: Zadejte tag
+    uploaded: Aktuálně nahráno
+    nolink_text: Nemáte odkaz? Nahrajte soubor
     edit_path_item_advanced:
-      choose_lesson: Choose a lesson type
-      website_description: A card for any link
-      video_description: Immersive video integration
-      pdf_description: Upload or link to a file
-      text_description: Long form text with style
-      embed_description: Embed any content you like
-      quiz_description: Giver clear options
-      title_goes_here: "Title goes here"
-      description_goes_here: "Description goes here"
-      learn_more: "Learn more about how to create a course"
+      choose_lesson: Vyberte typ lekce
+      website_description: Karta pro jakýkoli odkaz
+      video_description: Integrace videa
+      pdf_description: Nahrajte soubor nebo odkaz na něj
+      text_description: Dlouhý text se stylem
+      embed_description: Vložte libovolný obsah, který se vám líbí
+      quiz_description: Poskytněte jasné možnosti
+      title_goes_here: "Název zadejte zde"
+      description_goes_here: "Popis zadejte zde"
+      learn_more: "Zjistěte více informací o vytvoření kurzu"
       content: "Content"
       not_saved: "%{error} prohibited this item from being saved:"
       paste_or_type: "Paste or type a link"
