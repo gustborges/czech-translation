@@ -398,106 +398,106 @@ en:
       title_goes_here: "Název zadejte zde"
       description_goes_here: "Popis zadejte zde"
       learn_more: "Zjistěte více informací o vytvoření kurzu"
-      content: "Content"
-      not_saved: "%{error} prohibited this item from being saved:"
-      paste_or_type: "Paste or type a link"
-      learn: "Learn more"
-      pdf_link_html: "Add a <span class='font-weight-bold'>PDF</span> by link:"
-      pdf_explanation_html: "PDFs can only be shown with links ending in <span class='font-italic'>'.pdf'</span>. For other PDFs please use the upload below."
-      video_explanation_html: "Use videos from <span class='font-weight-bold'>YouTube</span>, <span class='font-weight-bold'>Vimeo</span>, <span class='font-weight-bold'>Wistia</span>, <span class='font-weight-bold'>Loom</span> and many other video hosting platforms."
-      embed_content_html: "Embed content <span class='font-weight-bold'>by link</span>:"
-      embed_explanation_html: "Enter a valid <span class='font-weight-bold'>iframe</span> or <span class='font-weight-bold'>embed code</span> from your favorite tools, e.g. Miro, Trello or Figma."
-      upload_pdf_html: "or <span class='font-weight-bold'>upload a PDF</span> file from your computer:"
-      about_questions: "about how to add your questions."
+      content: "Obsah"
+      not_saved: "%{error} zakázal uložení této položky:"
+      paste_or_type: "Vložte nebo napište odkaz"
+      learn: "Zjitit více"
+      pdf_link_html: "Přidat <span class='font-weight-bold'>PDF</span> odkazem:"
+      pdf_explanation_html: "Soubory PDF lze zobrazit pouze s odkazy končícími na <span class='font-italic'>'.pdf'</span>. Pro ostatní soubory PDF použijte nahrání níže."
+      video_explanation_html: "Používejte videa z <span class='font-weight-bold'>YouTube</span>, <span class='font-weight-bold'>Vimeo</span>, <span class='font-weight -bold'>Wistia</span>, <span class='font-weight-bold'>Loom</span> a mnoho dalších platforem pro hostování videa."
+      embed_content_html: "Vložit obsah <span class='font-weight-bold'>odkazem</span>:"
+      embed_explanation_html: "Zadejte platný <span class='font-weight-bold'>iframe</span> nebo <span class='font-weight-bold'>kód pro vložení</span> z vašich oblíbených nástrojů, např. Miro, Trello nebo Figma."
+      upload_pdf_html: "nebo <span class='font-weight-bold'>nahrajte soubor PDF</span> ze svého počítače:"
+      about_questions: "o tom, jak přidat své otázky."
     index:
-      all: All
-      reset: Reset
-      tag: Select a tag
-      create: "Add new lesson"
+      all: Všechny
+      reset: Resetovat
+      tag: Vyberte tag
+      create: "Přidat novou lekci"
     myitem:
-      answer: View Answer
-      back: "Back to:"
-      complete: Complete
-      completed: Completed
-      contents: Lessons
-      feedback: How was it?
-      feedback_text: You just completed
-      link: Visit link
-      mark_finished: Mark Finished
-      next: Next up
-      next_lesson: Continue to Next Lesson
-      start_next_lesson: Start Next Lesson
-      to_path: Return to course
+      answer: Zobrazit odpověď
+      back: "Zpět na:"
+      complete: Dokončeno
+      completed: Dokončeno
+      contents: Lekce
+      feedback: Jak se Vám líbil kurz, lekce?
+      feedback_text: Právě jste dokončili lekci,kurz
+      link: Navštivte odkaz
+      mark_finished: Označit jako dokončené
+      next: Další
+      next_lesson: Pokračujte na další lekci
+      start_next_lesson: Začít další lekci
+      to_path: Návrat do kurzu
     new:
-      title: New Lesson
+      title: Nová lekce
     new_path_item:
-      add_existing_content: Add existing lesson
-      add_items_text: Find lesson
-      add_items_title: Choose lessons to add
-      add_new_content: Add new lesson
-      add_question: Add question
-      question_text: You can add questions after creating the lesson.
+      add_existing_content: Přidat existující lekci
+      add_items_text: Majít lekci
+      add_items_title: Vyberte lekce, které chcete přidat
+      add_new_content: Přidat novou lekci
+      add_question: Přidat otázku
+      question_text: Otázky můžete přidat po vytvoření lekce.
     show:
-      link: Visit link
+      link: Navštivte odkaz
     myitem_show:
-      needs_sign_in: "You need to sign in or sign up before continuing."
-      not_enrolled: "Not enrolled in this path yet."
+      needs_sign_in: "Před pokračováním se musíte přihlásit nebo zaregistrovat."
+      not_enrolled: "Do tohoto kurzu ještě nejste zaregistrováni."
     create_advanced:
-      updated: "Lesson was successfully updated."
+      updated: "Lekce byla úspěšně aktualizována."
     _configuration_navbar:
-      all_courses: "All Courses"
-      publish: "Publish"
+      all_courses: "Všechny kurzy"
+      publish: "Publikovat"
   layouts:
     _navbar:
-      account_question: Have an account?
-      admin_settings: Admin Settings
-      create_path: Create a course
+      account_question: Máte účet?
+      admin_settings: Nastavení správce
+      create_path: Vytvořte kurz
       design: Design
-      invite_users: Invite Users
-      my_profile: My profile
-      my_settings: My settings
-      support: Support
-      templates: Templates
-      upgrade_plan: "Upgrade Plan!"
+      invite_users: Pozvat uživatele
+      my_profile: Můj profil
+      my_settings: Moje nastavení
+      support: Podpora
+      templates: Šablony
+      upgrade_plan: "Plán upgradu!"
     _navbar_tenants:
-      account_question: Have an account?
+      account_question: Máte účet?
   notification_mailer:
     new_path_notification:
       email: Email
-      sign_in: Sign In
-      workspace_name: Academy name
-      workspace_url: Academy URL
-      subject: "[Marble] Notifications from %{tenant}"
+      sign_in: Přihlásit se
+      workspace_name: Název akademie
+      workspace_url: URL akademie
+      subject: "[Mramor] Oznámení od %{tenant}"
   paths:
     shared:
-      choose_file: Choose a file
+      choose_file: Vyberte soubor
       file_size: "(max. 10MB)"
-      item_tags_text: Enter a tag
-      nolink_text: Don't have a link? Upload a file
-      enter_url: Enter a URL
-      enter_emails: Enter emails here
-      start_date: Start date
-      end_date: End date
-      draft: Draft
-      publish: Publish
-      previous: Previous
-      start: Start
-      resume: Resume
-      no_notifications: No notifications
-      notifications: Notifications
-      now_button: Now
-      privacy: Privacy
-      anyone_with_link: Anyone with link
-      anyone_with_link_text_2: Anyone on the internet can view this course.
-      restricted: Restricted
-      restricted_text: Only learners assigned can open with this course.
-      privacy_text: Set the privacy of this course.
-      public_text: Anyone in the academy can view this course.
-      available: Available
-      expired: Expired
-      edit_path: Edit Course
-      subscribe: Subscribe
-      subscribe_for: Subscribe for
+      item_tags_text: Zadejte tag
+      nolink_text: Nemáte odkaz? Nahrát soubor
+      enter_url: Zadejte adresu URL
+      enter_emails: Zde zadejte e-maily
+      start_date: Datum zahájení
+      end_date: Datum ukončení
+      draft: Návrh
+      publish: Publikovat
+      previous: Předchozí
+      start: Začít
+      resume: Obnovit
+      no_notifications: Žádná upozornění
+      notifications: Upozornění
+      now_button: Nyní
+      privacy: Soukromí
+      anyone_with_link: Kdokoli s odkazem
+      anyone_with_link_text_2: Tento kurz může zobrazit kdokoli na internetu.
+      restricted: Omezený
+      restricted_text: Tento kurz mohou otevřít pouze přiřazení studenti..
+      privacy_text: Nastavte soukromí tohoto kurzu.
+      public_text: Tento kurz může zobrazit kdokoli v akademii.
+      available: K dispozici
+      expired: Platnost vypršela
+      edit_path: Upravit kurz
+      subscribe: Předplatné
+      subscribe_for: Předplatné pro
       buy_course: Buy
       buy_for: Buy for
     show_settings:
