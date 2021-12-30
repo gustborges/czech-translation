@@ -498,408 +498,408 @@ en:
       edit_path: Upravit kurz
       subscribe: Předplatné
       subscribe_for: Předplatné pro
-      buy_course: Buy
-      buy_for: Buy for
+      buy_course: Koupit
+      buy_for: Koupit za
     show_settings:
-      delete_image: Delete image
-      restore_image: Restore default
+      delete_image: Odstranit obrázek
+      restore_image: Obnovení výchozího nastavení
     edit_cover_image_modal:
-      restore: Restore default
+      restore: Obnovení výchozího nastavení
       label:
-        banner: Cover image
-        banner_instructions: "Max size: 3000 x 1500 px"
-      title: Change course cover image
+        banner: Titulní obrázek
+        banner_instructions: "Maximální velikost: 3000 x 1500 px"
+      title: Změnit titulní obrázek kurzu
     _edit_path_modal:
       label:
-        image: Course background image
-        image_instructions: "Max size: 3500 x 1100 px"
-        text_color: Course title color
+        image: Obrázek na pozadí kurzu
+        image_instructions: "Maximální velikost: 3500 x 1100 px"
+        text_color: Barva názvu kurzu
     _existing_items_modal:
-      select_items: Select lessons
-      title: Add Existing Lessons
+      select_items: Vyberte lekci
+      title: Přidat existující lekci
     _modal_add_content:
-      add_existing_content: Add existing lesson
-      add_new_content: Add new lesson
-      choose_items: Choose lessons to add
-      find_content: Find lesson
+      add_existing_content: Přidat existující lekci
+      add_new_content: Přidat novou lekci
+      choose_items: Vyberte lekce, které chcete přidat
+      find_content: Najít lekci
     _modal_add_question:
-      add_option: Add option
-      ask_question: Ask a question...
-      title: Multiple Choice Question
+      add_option: Přidat možnost
+      ask_question: Vaše otázky...
+      title: Otázka s více možnostmi
     _modal_edit_item:
-      title: Edit lesson
+      title: Upravit lekci
     _modal_edit_question:
-      add_option: Add option
-      title: Edit question
+      add_option: Přidat možnost
+      title: Upravit otázku
     _modal_path_settings:
       # Part of the strings from this page are linked to the paths/edit
-      assign_groups: Assign groups
-      assign_groups_text: You can also assign groups of learners previously created in the admin environment.
-      currently_in: You are currently in %{timezone} time
+      assign_groups: Přiřazení skupin
+      assign_groups_text: Můžete také přiřadit skupiny studentů dříve vytvořené v administrátorském prostředí.
+      currently_in: Momentálně se nacházíte v %{timezone} času
       design_description: Design
-      design_title: Change the layout of your learner mode
-      find_learners: Find learners
-      find_groups: Find groups
-      only_assigned: Only assigned members
-      path_collaboration: Course collaboration
-      path_collaboration_text: Allow learners to add lessons to this course.
-      person_space: persons in your academy.
-        only for a certain period of time.
+      design_title: Změňte rozložení svého studentského režimu
+      find_learners: Najít studenty
+      find_groups: Najít skupiny
+      only_assigned: Pouze přiřazení členové
+      path_collaboration: Spolupráce na kurzu
+      path_collaboration_text: Umožněte studentům přidávat lekce do tohoto kurzu.
+      person_space: osoby ve vaší akademii.
+        pouze na určitou dobu.
     _new_item_modal:
-      title: Add new lesson
+      title: Přidat novou lekci
     _path:
-      change_cover: Change Cover
-      edit_path: Edit Course
+      change_cover: Změna obálky kurzu
+      edit_path: Upravit kurz
       items:
-        one: "%{count} Lesson"
-        other: "%{count} Lessons"
-      view_path: View Course
+        one: "%{count} lekce"
+        other: "%{count} lekcí"
+      view_path: Zobrazit kurz
     _paths_list:
-      create_first_path: Create your first course
-      no_paths: There are no courses here yet.
+      create_first_path: Vytvořte svůj první kurz
+      no_paths: Zatím zde nejsou žádné kurzy.
     edit:
-      add_content: Add lesson
-      all_learners: All learners
-      assign_learners: Assign learners
+      add_content: Přidat lekci
+      all_learners: Všichni studenti
+      assign_learners: Přiřadit studenty
       assign_learners_text:
-        You can assign individual learners who will be able to
-        see the course and are notified about the course.
-      change_name: Change Name
-      change_timezone: Change your time zone here
-      currently_in: You are currently in
-      form_title: The form contains
-      group_path_title: Group course settings
-      noend: No end
-      notifications_text: Your learners will receive a notification about this course.
-      only_assigned: Only assigned members
-      path_collaboration: Course collaboration
-      path_collaboration_text: Allow learners to add lessons to this course.
-      person_space: persons in your academy.
-      schedule_path: Schedule a course
-      schedule_path_text_1: Courses are generally always available to your academy.
+        Můžete přiřadit jednotlivé studenty, kteří budou moci
+        vidět kurz a jsou o kurzu informováni.
+      change_name: Změnit jméno
+      change_timezone: Zde změňte své časové pásmo
+      currently_in: Momentálně se nacházíte v
+      form_title: Formulář obsahuje
+      group_path_title: Nastavení skupinového kurzu
+      noend: Bez konce
+      notifications_text: Vaši studenti obdrží oznámení o tomto kurzu
+      only_assigned: Pouze přiřazení členové
+      path_collaboration: Spolupráce na kurzu
+      path_collaboration_text: Umožněte studentům přidávat lekce do tohoto kurzu.
+      person_space: osoby ve vaší akademii.
+      schedule_path: Naplánovat kurz
+      schedule_path_text_1: Kurzy jsou ve vaší akademii obecně vždy k dispozici.
       schedule_path_text_2:
-        With this setting, you can schedule courses to be available
-        only for a certain period of time.
-      sending_notification: You will be sending a notification to
-      title_1: Add lesson
-      title_2: Group course settings
-      needs_author: "You have to be the author to edit this path."
-      needs_author_preview: "You have to be the author to preview this path."
+        S tímto nastavením můžete naplánovat kurzy tak, aby byly k dispozici
+        pouze na určitou dobu
+      sending_notification: Budete posílat upozornění na
+      title_1: Přidat lekci
+      title_2: Nastavení skupinového kurzu
+      needs_author: "Abyste mohli upravit tyto atributy, musíte být autorem..."
+      needs_author_preview: "Pro náhled těchto atributů kurzu musíte být autorem."
     index:
-      assigned: Assigned to me
+      assigned: Přiřazeno mě
     review:
-      all_learners: All learners
-      assign_users: Assign users
+      all_learners: Všichni studenti
+      assign_users: Přiřadit uživatele
       assign_users_text:
-        You can assign individual users who will be able to see the
-        course and are notified about the course.
-      change_timezone: Change your time zone here
-      currently_in: You are currently in
-      find_learners: Find learners
-      form_title: The form contains
-      notifications_text: Your learners will receive a notification about this course.
-      only_assigned: Only assigned members
-      open-ended: Open-ended
-      person_space: Persons
-      save_draft: Save as draft
-      schedule_path: Schedule course
-      schedule_path_text_1: Courses are generally always available to your academy.
+         Můžete přiřadit jednotlivé uživatele, kteří budou moci zobrazit
+        kurz a jsou o kurzu informováni.
+      change_timezone: Zde změňte své časové pásmo
+      currently_in: Momentálně se nacházíte
+      find_learners: Najít studenty
+      form_title: Formulář obsahuje
+      notifications_text: Vaši studenti obdrží oznámení o tomto kurzu.
+      only_assigned: Pouze přiřazení členové
+      open-ended: S otevřeným koncem
+      person_space: Osoby
+      save_draft: Uložit jako koncept
+      schedule_path: Plánovat kurz
+      schedule_path_text_1: Kurzy jsou ve vaší akademii obecně vždy k dispozici.
       schedule_path_text_2:
-        With this setting, you can schedule courses to be available
-        only for a certain period of time.
-      sending_notification: You will be sending a notification to
-      title: Configure course
+        S tímto nastavením můžete naplánovat kurzy tak, aby byly k dispozici
+        pouze na určitou dobu.
+      sending_notification: Budete posílat upozornění na
+      title: Konfigurace kurzu
     preview:
-      edit: Edit Course
+      edit: Upravit kurz
     show:
-      add_item: Add at least one lesson
-      course_details: Course Details
-      edit: Edit
-      enter_emails: Enter emails here
-      invitations_sent: Invitations sent to
-      invite: Invite
-      invite_learners: Invite learners
-      invite_learners_text: The learners will be invited and assigned to this course.
-      learners: learners.
-      no_items: There are no lessons yet.
-      path_published: Course was successfully published.
-      send_invitations: Send invitations
-      not_published: "This course is not published yet."
+      add_item: Přidejte alespoň jednu lekci
+      course_details: Podrobnosti o kurzu
+      edit: Upravit
+      enter_emails: Zde vložte e-maily
+      invitations_sent: Pozvánky odeslané uživateli
+      invite: Pozvat
+      invite_learners: Pozvat studenty
+      invite_learners_text: Studenti budou pozváni a přiřazeni do tohoto kurzu.
+      learners: studenti.
+      no_items: Zatím zde nejsou žádné lekce.
+      path_published: Kurz byl úspěšně publikován.
+      send_invitations: Odeslat pozvánky
+      not_published: "Tento kurz ještě není publikován."
     show_share:
       sharelink:
-        button: Copy
-        title: Share this link
+        button: Kopírovat
+        title: Sdílet tento odkaz
     templates:
-      create_template: Create from template
-      title: Templates
-      view_original: View original course
+      create_template: Vytvořit ze šablony
+      title: Šablony
+      view_original: Zobrazit původní kurz
     create_from_template:
-      created: "Course was successfully created from template."
+      created: "Kurz byl úspěšně vytvořen ze šablony."
     restore_default_image:
-      not_deleted: "We couldn't delete the background image."
+      not_deleted: "Nepodařilo se nám smazat obrázek na pozadí."
     publish:
-      published: "Course was successfully published."
-      limit: "You've reached the limit of your plan. Consider upgrading your account at Admin > Billing."
+      published: "Kurz byl úspěšně publikován."
+      limit: "Dosáhli jste limitu svého plánu. Zvažte upgrade svého účtu na stránce Správce > Fakturace."
     update:
-      updated: "Course was successfully updated."
-      settings_changed: "Course settings were successfully changed."
+      updated: "Kurz byl úspěšně aktualizován."
+      settings_changed: "Nastavení kurzu byla úspěšně změněna."
     add_existing_items:
-      added: "Item was successfully added."
+      added: "Položka byla úspěšně přidána."
     remove_item:
-      removed: "Lesson was successfully removed from course."
-      not_removed: "Course must contain at least one lesson."
+      removed: "Lekce byla úspěšně odstraněna z kurzu."
+      not_removed: "Kurz musí obsahovat alespoň jednu lekci."
     update_cover:
-      error: "There was an error with the updating the cover."
-    invite_user: "Learner was successfully invited!"
+      error: "Při aktualizaci obálky kurzu došlo k chybě."
+    invite_user: "Student byl úspěšně pozván."
     validations:
-      limit_mb: "is larger than 5MB"
+      limit_mb: "Je větší než 5MB"
   questions:
     shared:
-      correct: Correct answer!
-      incorrect: Incorrect!
-      correct_text: "The correct answer is option:"
-      multiple: Multiple choice question
-      submit: Submit
-      answer: Check for correct answer
-      created: "Question was successfully created."
-      deleted: "Question was successfully deleted."
+      correct: Správná odpověď!
+      incorrect: Špatná odpověď!
+      correct_text: "Správná odpověď má následujídí možnosti:"
+      multiple: Otázka s více možnostmi
+      submit: Předložit
+      answer: Zkontrolujte správnou odpověď
+      created: "Otázka byla úspěšně vytvořena."
+      deleted: "Otázka byla úspěšně smazána."
     _option_fields:
-      option: Option
-      answer: Check answer
+      option: Možnost
+      answer: Kontrola odpovědi
     _question_form:
-      add_option: Add option
-      ask_question: Ask a question...
-      save_options: Save options
+      add_option: Přidat možnost
+      ask_question: Můžete se zeptat...
+      save_options: Uložit možnosti
     _view_question:
-      title: Quiz Question
+      title: Kvízová otázka
     modal_failure:
-      try_again: You can try again!
+      try_again: Můžete to zkusit znovu!
   profiles:
     shared:
-      email: Enter an email address
-      locale: Language
-      name: Enter your name
-      position: Enter your position
+      email: Zadejte e-mailovou adresu
+      locale: Jazyk
+      name: Zadejte své jméno
+      position: Zadejte svou pozici
     _profile_navigation:
-      overview: Overview
-    updated: "User was successfully updated."
+      overview: Přehled
+    updated: "Uživatel byl úspěšně aktualizován."
   users:
     shared:
-      password: Password
-      new_password: New Password
-      confirm_new_password: Confirm New Password
-      confirm_password: Confirm Password
-      enter_name: Enter your name
-      enter_password: Enter your password
-      password_confirmation: Enter the password again
-      password_reset: Password reset
-      enter_email: Enter your e-mail address
-      remember: Remember me
-      password_text: Your password should be at least 6 characters long (and contain numbers and special characters for additional security)
+      password: Heslo
+      new_password: Nové heslo
+      confirm_new_password: Potvrzení nového hesla
+      confirm_password: Potvrzení hesla
+      enter_name: Zadejte své jméno
+      enter_password: Zadejte vaše heslo
+      password_confirmation: Zadejte heslo znovu
+      password_reset: Obnovení hesla
+      enter_email: Zadejte svou e-mailovou adresu
+      remember: Zapamatovat si vložené údaje
+      password_text: Vaše heslo by mělo mít alespoň 6 znaků (a obsahovat čísla a speciální znaky pro dodatečné zabezpečení)
       _links:
-        forgot: Forgot your password?
+        forgot: Zapoměli jste své heslo?
     profiles:
       certificates:
-        no_certificate: You don't have any issued certificate yet.
-        date_issue: Date of issue
-        view_pdf: View as PDF
+        no_certificate: Ještě nemáte žádný vydaný certifikát
+        date_issue: Datum vydání
+        view_pdf: Zobrazit jako PDF
       items:
-        no_lessons: You don't have lessons available yet.
+        no_lessons: Zatím nemáte žádné dostupné lekce.
       paths:
-        no_courses: You don't have courses available yet.
+        no_courses: Zatím nemáte žádné dostupné kurzy.
       billing:
-        no_billing: There isn't any order or payment yet.
+        no_billing: Zatím neproběhla žádná objednávka ani platba.
       show:
-        overview: Overview
-        progress: Learn Progress
-        stats: Personal Statistics
+        overview: Přehled
+        progress: Pokrok studenta
+        stats: Osobní statistiky
     invitations:
       edit:
-        consent_text_html: By continuing, you're agreeing to our %{terms}.
-        submit_button: Save my password
+        consent_text_html: Pokračováním souhlasíte s našimi %{terms}.
+        submit_button: Uložit moje heslo
         subtitle_html:
-          You'll use your email address (<strong>%{email}</strong>) and
-          a password to sign in to your academy on Marble.
-        title: Join %{tenant}
+          Budete používat svou e-mailovou adresu (<strong>%{email}</strong>) a
+          heslo pro přihlášení do vaší akademie na Marble.
+        title: Jít na %{tenant}
     mailer:
       invitation_instructions:
         body_html:
-          has invited you to join the academy <strong>%{tenant}</strong>. Join
-          now to start learning!
-        cta: Join Now
-        title: Join %{tenant} on Marble
+         vás pozval do akademie <strong>%{tenant}</strong>. Připojit se
+          teď a můžete absolvovat kurz!
+        cta: Přejděte na kurz.
+        title: Přejděte na %{tenant} v Marble
       reset_password_instructions:
         body:
-          "You told us you forgot your password. If you really did, click here
-          to choose a new one:"
-        cta: Choose a New Password
-        hint: "“Choose a New Password” button not working?"
-        hint2: "Just copy and paste this link in your browser:"
+          "Oznámili jste nám, že jste zapomněli heslo. Pokud jste to opravdu udělali, klikněte sem."
+          vybrat nové:"
+        cta: Zvolte nové heslo
+        hint: "“Tlačítko "Vybrat nové heslo" nefunguje??"
+        hint2: "Stačí zkopírovat a vložit tento odkaz do prohlížeče:"
         no_reset:
-          If you didn't mean to reset your password, then you can just ignore
-          this email; your password will not change.
-        title: Reset your password
+          Pokud jste nechtěli resetovat heslo, můžete ignorovat
+          tento email; vaše heslo se nezmění.
+        title: Obnovit heslo
     passwords:
       edit:
-        submit_button: Change my password
+        submit_button: Změna mého hesla
         subtitle_html:
-          Enter your new password for your Marble account to sign in
-          to <strong>%{tenant}</strong>.
+          Chcete-li se přihlásit, zadejte své nové heslo pro svůj účet Marble
+          na <strong>%{tenant}</strong>.
       new:
-        reset_link: Get Reset Link
+        reset_link: Získat odkaz pro resetování hesla
         subtitle_html:
-          To reset your password, enter the email address you use to
-          sign in to <strong>%{tenant}</strong>.
+          Chcete-li obnovit heslo, zadejte e-mailovou adresu, kterou používáte a 
+          přihlaste se k <strong>%{tenant}</strong>.
     registrations:
       new:
-        terms_button: Terms of Service
-        terms_html: By continuing, you're agreeing to our %{link}.
-        title: Sign up to %{tenant}
+        terms_button: Podmínky služby
+        terms_html: Pokračováním souhlasíte s našimi %{link}.
+        title: Zaregistrujte se na %{tenant}
     sessions:
       new:
-        title: Sign in to %{tenant}
+        title: Přihlaste se do %{tenant}
     validations:
-      limit_mb: "is larger than 5MB"
+      limit_mb: "je větší než 5MB"
   welcome:
     _modal_new_path:
       label:
-        items: Select lesson
+        items: Vyberte lekci
       placeholder:
-        select_items: Select lessons
-      title: Create a new course
+        select_items: Vyberte lekce
+      title: Vytvořte nový kurz
     home:
-      my_paths: My Courses
-      other_paths: Other Courses
-      welcome: Welcome to %{tenant}'s Academy
+      my_paths: Moje kurzy
+      other_paths: Jiné kurzy
+      welcome: Vítejte v akademii %{tenant}
     signin:
-      continue: Continue
-      label: Enter your Academy URL
-      placeholder: your-team-url
-      title: Sign in to your Academy
-    create: "Welcome to your new space! Please, sign in to start using it."
+      continue: pokračovat
+      label: Zadejte adresu URL vaší akademie
+      placeholder: adresa URL vašeho týmu
+      title: Přihlaste se do své akademie
+    create: "Vítejte v novém studijním prostoru. Chcete-li jej používat, přihlaste se."
     find_team:
-      not_found: "Academy not found."
-      enter_name: "Please Enter the Space Name."
+      not_found: "Akademie nenalezena."
+      enter_name: "Zadejte název studijního prostoru."
   global:
-    back: Back
-    cancel: Cancel
-    close: Close
-    delete: Delete
-    destroy: Destroy
-    edit: Edit
-    new: New
-    remove: Remove
-    create: Create
-    add: Add
-    share: Share
-    save: Save
-    search: Search
-    save_changes: Save changes
-    sign_in: Sign in
-    sign_up: Sign up
-    sign_out: Sign out
-    sure: Are you sure?
-    active: Active
-    inactive: Inactive
-    update: Update
-    save_pdf: Upload and save PDF file
+    back: Zpět
+    cancel: Zrušit
+    close: Zavřít
+    delete: Smazat
+    destroy: Zničit
+    edit: Upravit
+    new: Nový
+    remove: Odebrat
+    create: Vytvořit
+    add: Přidat
+    share: Sdílet
+    save: Uložit
+    search: Hledat
+    save_changes: Uložit změny
+    sign_in: Přihlásit se
+    sign_up: Registrovat se
+    sign_out: Odhlásit se
+    sure: Jste si jistí?
+    active: Aktivní
+    inactive: Neaktivní
+    update: Aktualizace
+    save_pdf: Nahrajte a uložte soubor PDF
     admin: Admin
-    name: Name
-    title: Title
-    description: Description
-    summary: Summary
+    name: Jméno
+    title: Titul
+    description: Popis
+    summary: Souhrn
     url: URL
-    email: E-mail
-    details: Details
-    course: Course
-    courses: Courses
-    lesson: Lesson
-    lessons: Lessons
-    user: User
-    users: Users
+    email: e-mail
+    details: Podrobnosti
+    course: Kurz
+    courses: Kurzy
+    lesson: Lekce
+    lessons: Lekce
+    user: Uživatel
+    users: Uživatelé
     academy:
-      zero: Academy
-      one: Academy
-      other: Academies
-    academies: Academies
-    group: Group
-    groups: Groups
+      zero: Akademie
+      one: Akademie
+      other: Akademie
+    academies: Akademie
+    group: Skupina
+    groups: Skupiny
     tag: Tag
-    tags: Tags
-    view: View
-    views: Views
-    date: Date
-    "yes": "Yes"
-    "no": "No"
+    tags: Tagy
+    view: Zobrazit
+    views: Zobrazení
+    date: Datum
+    "yes": "ano"
+    "no": "Ne"
     min: min
     h: h
     s: s
-    ago: ago
-    day: day
-    week: week
-    month: month
-    year: year
-    analytics: Analytics
-    time_spent: Time Spent
-    last_seen: Last Seen
-    completed: Completed
-    completion: Completion
-    satisfaction: Satisfaction
-    avg_satisfaction: Avg. Satisfaction
-    actions: Actions
-    dashboard: Dashboard
+    ago: před
+    day: den
+    week: týden
+    month: měsíc
+    year: rok
+    analytics: Analytika
+    time_spent: Strávený čas
+    last_seen: Naposledy viděn
+    completed: Dokončeno
+    completion: Dokončení
+    satisfaction: Spokojenost
+    avg_satisfaction: Prům. spokojenost
+    actions: Akce
+    dashboard: Ovládací panel
     role: Role
-    admins: Admins
-    creator: Creator
-    creators: Creators
-    learner: Learner
-    learners: Learners
-    certificate: Certificate
-    certificates: Certificates
-    question: Question
-    questions: Questions
-    settings: Settings
-    billing: Billing
-    sales: Sales
-    price: Price
-    revenue: Revenue
-    integration: Integration
-    integrations: Integrations
-    currency: Currency
-    sso: "Single Sign-On"
-    certificate_template: "Certificate Template"
-    hi: "Hi"
-    all_rights_reserved: "All rights reserved"
-    thanks: "Thanks"
-    ceo_and_founder: "CEO and founder of Marble"
+    admins: Admini
+    creator: Tvůrce
+    creators: Tvůrci
+    learner: Student
+    learners: Studenti
+    certificate: Certifikát
+    certificates: Certifikáty
+    question: Otázka
+    questions: Otázky
+    settings: Nastavení
+    billing: Fakturace
+    sales: Prodej
+    price: Cena
+    revenue: Zisk
+    integration: Integrace
+    integrations: Integrace
+    currency: Měna
+    sso: "Jednotné přihlášení"
+    certificate_template: "Šablona certifikátu"
+    hi: "Zdravíme"
+    all_rights_reserved: "Všechna práva vyhrazena"
+    thanks: "Děkujeme"
+    ceo_and_founder: "CEO a zakladatel Marble"
   certificates:
-    issue_automatic_certificate: "Congratulations, you have a new certificate! You can view and download it from your profile page."
+    issue_automatic_certificate: "Gratulujeme, máte nový certifikát! Můžete si jej prohlédnout a stáhnout ze stránky svého profilu."
   tenants:
     create:
-      recaptcha: "reCAPTCHA Authorization Failed. Please try again."
+      recaptcha: "Autorizace reCAPTCHA se nezdařila. Zkuste to prosím znovu."
     confirmation:
-      welcome: "Welcome to Marble! Your email has been confirmed. Please log in to continue."
-      tenant_doesnt_exist: "Sorry. Tenant does not exist."
+      welcome: "Vítejte v Marble! Váš e-mail byl potvrzen. Pro pokračování se prosím přihlaste."
+      tenant_doesnt_exist: "Promiňte, neexistující položka."
   certificate_mailer:
     send_certificate:
-      subject: "Congratulations %{user}, you've completed your %{path} course!"
-      preheader: "You've got a new certificate!"
-      congratulations_html: "We want to congratulate you on completing your <strong>%{path}</strong> course in the %{tenant}'s Academy."
-      you_can_view_html: "You can view and download your certificate on the %{href}."
-      view_certificate: "View Certificate"
-      share_html: "Finally, don't forget to <strong>share your achievement</strong> with your network!"
+      subject: "Gratulujeme %{user}, dokončili jste svůj kurz %{path}!"
+      preheader: "Máte nový certifikát!"
+      congratulations_html: Chceme vám poblahopřát k dokončení vašeho kurzu <strong>%{path}</strong> v akademii %{tenant}."
+      you_can_view_html: "Svůj certifikát si můžete prohlédnout a stáhnout na %{href}."
+      view_certificate: "Zobrazit certifikát"
+      share_html: "Nakonec nezapomeňte <strong>sdílet svůj úspěch</strong> se svými přáteli na soc. sítích!"
   payment_mailer:
     send_payment_confirmation:
-      subject: "%{user}, your payment was confirmed!"
-      preheader: "Your payment was confirmed!"
-      subscription_paid_html: "We've just received your subscription payment for the course <strong>%{path}</strong>, which is still available on %{tenant}'s Academy."
+      subject: "%{user}, vaše platba byla potvrzena!"
+      preheader: "Vaše platba byla potvrzena!"
+      subscription_paid_html: "Právě jsme obdrželi vaši platbu za předplatné kurzu <strong>%{path}</strong>, který je stále dostupný na akademii %{tenant}."
       track_metrics: "track your learning metrics"
-      you_can_track_html: "You can also %{href} and manage payments and subscriptions on your profile's page."
-      resume_course: "Resume course"
-      course_paid_html: "We've just received your payment for the course <strong>%{path}</strong>, which is already available on %{tenant}'s Academy."
-      start_learning: "Start learning"
+      you_can_track_html: "Můžete také %{href} a spravovat platby a odběry na stránce svého profilu."
+      resume_course: "Obnovit kurz"
+      course_paid_html: "Právě jsme obdrželi vaši platbu za kurz <strong>%{path}</strong>, který je již k dispozici na akademii %{tenant}."
+      start_learning: "Začít výuku"
     send_cancellation_confirmation:
-      canceled: "Your subscription was canceled."
+      canceled: "Vaše předplatné bylo zrušeno."
       confirmation_message_html: "This is a confirmation message of your subscription cancellation for the course <strong>%{path}</strong>."
       you_can_still_html: "You can still %{href1}, %{href2}, and %{href3} on your profile's page."
       href1_text: "track your learning metrics"
