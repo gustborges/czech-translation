@@ -102,7 +102,7 @@ en:
           zero: Lekce
           one: Lekce
           other: Lekce
-        last_viewed: "Last viewed:"
+        last_viewed: "Naposledy zobrazeno"
       change_role:
         one_admin: "Potřebujete alespoň jednoho správce."
         admin_limit: "Dosáhli jste limitu počtu správců. Zvažte upgrade svého plánu na stránce Správce > Fakturace."
@@ -160,7 +160,7 @@ en:
         automatic_hint: "Pokud toto nastavíte jako automatické, certifikáty budou vydány poté, co student dosáhne minimální úrovně pro vydání, kterou můžete nastavit níže."
     layouts:
       application:
-        workspace: Back to Academy
+        workspace: Zpět do akademie
         marble_academy: "💎 Marble Akademie"
         help_center: "📚 Centrum nápovědy"
         facebook: "👍 Facebooková skupina"
@@ -180,8 +180,8 @@ en:
       index:
         manage: Spravujte svůj plán
         lifetime: Doživotní přístup k
-        includes: Plan includes
-        current: Plán zahrnuje
+        includes: Plán obsahuje
+        current: Aktuální plán
         unlimited: Neomezený
         unlimited_learners: Neomezený počet studentů
         unlimited_creators: Neomezený počet tvůrců
@@ -224,7 +224,7 @@ en:
         name_placeholder: Zadejte název týmu nebo společnosti
         welcome_subtitle: Sekundární uvítací zpráva
         welcome_title: Primární uvítací zpráva
-        whitelabel: White Label
+        whitelabel: Vlastní značka
         whitelabel_checkbox: Odstraňte popis 'Powered by Marble'
         design_title: Design
         design_subtitle: Aktualizujte logo své značky, obrázky na pozadí a barvy používané ve vaší akademii.
@@ -254,7 +254,7 @@ en:
         sso_login_url: "URL pro přihlášení SSO"
         sso_logout_url: "URL pro odhlášení jednotného přihlášení"
         activate_sso: "Aktivovat jednotné přihlašování SSO"
-        sso_secret: "SSO Secret"
+        sso_secret: "SSO tajný klíč"
         generate: "Vygenerovat klíč"
         regenerate: "Obnovit klíč"
       language:
@@ -467,7 +467,7 @@ en:
       sign_in: Přihlásit se
       workspace_name: Název akademie
       workspace_url: URL akademie
-      subject: "[Mramor] Oznámení od %{tenant}"
+      subject: "[Marble] Oznámení od %{tenant}"
   paths:
     shared:
       choose_file: Vyberte soubor
@@ -532,7 +532,7 @@ en:
       add_option: Přidat možnost
       title: Upravit otázku
     _modal_path_settings:
-      # Part of the strings from this page are linked to the paths/edit
+      # Část řetězců z této stránky je propojena
       assign_groups: Přiřazení skupin
       assign_groups_text: Můžete také přiřadit skupiny studentů dříve vytvořené v administrátorském prostředí.
       currently_in: Momentálně se nacházíte v %{timezone} času
@@ -893,7 +893,7 @@ en:
       subject: "%{user}, vaše platba byla potvrzena!"
       preheader: "Vaše platba byla potvrzena!"
       subscription_paid_html: "Právě jsme obdrželi vaši platbu za předplatné kurzu <strong>%{path}</strong>, který je stále dostupný na akademii %{tenant}."
-      track_metrics: "track your learning metrics"
+      track_metrics: "sledovat metriky učení"
       you_can_track_html: "Můžete také %{href} a spravovat platby a odběry na stránce svého profilu."
       resume_course: "Obnovit kurz"
       course_paid_html: "Právě jsme obdrželi vaši platbu za kurz <strong>%{path}</strong>, který je již k dispozici na akademii %{tenant}."
@@ -984,7 +984,7 @@ en:
       brl: "Brazilský real (BRL)"
       pln: "Polský zlotý (PLN)"
       chf: "Švýcarský frank (CHF)"
-  # Used in distance_of_time_in_words(), distance_of_time_in_words_to_now(), time_ago_in_words()
+  # Použito v distance_of_time_in_words(), distance_of_time_in_words_to_now(), time_ago_in_words()
   datetime:
     distance_in_words:
       half_a_minute: "půl minuty"
